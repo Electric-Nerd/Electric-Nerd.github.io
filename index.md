@@ -3,5 +3,4 @@ layout: home
 title: home
 ---
 
-工程日志  
-Electric Nerd
+效果器设计与工程笔记
